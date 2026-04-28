@@ -17,4 +17,4 @@ This project analyzes machine downtime across multiple factories using Tableau.
 ## 🔗 Live Dashboard
 [View Dashboard](https://public.tableau.com/app/profile/jesiliya.johnson/viz/FactoryDowntimeAnalysisDashboard_17773638947800/FactoryDowntimeAnalysisDashboard)
 ## 🖼️ Dashboard Preview
-![Dashboard](Screenshot 2026-04-28 125444.png)
+![Dashboard](dashboard.png)
